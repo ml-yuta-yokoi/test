@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
     participant クライアント as Client
     participant API Gateway REST API
@@ -25,3 +26,4 @@ sequenceDiagram
             API Gateway REST API->>Client: 200レスポンス
         end
     end
+```
